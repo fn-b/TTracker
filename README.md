@@ -34,5 +34,5 @@ Finally, in your ship's Dojo, run:
 
 You should then be able to see the `TTracker` tile on your Landscape home.
 
-The app is dependent on the MBTA v3 API. You can set your api key in the `Key Management` page. 
-The MBTA website says you can only make 40 requests. During development I have made many more than this without an API key. If you are having problems it is best to set your API key.
+The app is dependent on the MBTA v3 API. You can set your api key in the `Key Management` page. You will need to go here https://api-v3.mbta.com/register to obtain a key (you need an email adress sorry!) 
+The MBTA website says you can only make 40 requests without a key. During development I have made many more than this and did not run into any problems so maybe you don't need one ;).
