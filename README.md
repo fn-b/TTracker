@@ -37,4 +37,4 @@ You should then be able to see the `TTracker` tile on your Landscape home.
 
 ## Key Management
 The app is dependent on the MBTA v3 API. You can set your api key in the `Key Management` page. You will need to go here https://api-v3.mbta.com/register to obtain a key (you need an email adress sorry!) 
-The MBTA website says you can only make 40 requests without a key. During development I have made many more than this and did not run into any problems so maybe you don't need one ;).
+The MBTA website says you can only make 40 requests without a key. During development I have made many more than this and did not run into any problems so it's possible you don't need one! ;).
