@@ -29,7 +29,7 @@ Finally, in your ship's Dojo, run:
 
 ```
 |commit %home
-|start %TTracker
+|start %ttracker
 ```
 
 You should then be able to see the `TTracker` tile on your Landscape home.
